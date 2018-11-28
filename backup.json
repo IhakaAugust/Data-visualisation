@@ -1,0 +1,98 @@
+{"nodes":[
+
+
+{"name":"Does your employer provide mental health benefits as part of healthcare coverage? NA"},
+{"name":"Does your employer provide mental health benefits as part of healthcare coverage? No"},
+{"name":"Does your employer provide mental health benefits as part of healthcare coverage? Yes"},
+    
+{"name":"Would you feel comfortable discussing a mental health disorder with your coworkers? Maybe"},
+{"name":"Would you feel comfortable discussing a mental health disorder with your coworkers? No"},
+{"name":"Would you feel comfortable discussing a mental health disorder with your coworkers? Yes"},
+
+{"name":"Do you feel that your employer takes mental health as seriously as physical health? I don't know"},
+{"name":"Do you feel that your employer takes mental health as seriously as physical health? No"},
+{"name":"Do you feel that your employer takes mental health as seriously as physical health?? Yes"},   
+    
+{"name":"Do you have mental illness? No"},
+{"name":"Do you have mental illness? Yes/Maybe"},
+
+{"name":"Designer"},
+{"name":"Executive Leadership"},
+{"name":"One-person shop"},
+{"name":"Sales"},
+{"name":"DevOps/SysAdmin"},
+{"name":"Support"},
+{"name":"Dev Evangelist/Advocate"},
+{"name": "Front-end Developer"},
+{"name": "Supervisor/Team Lead"},
+{"name": "HR"},
+{"name": "Back-end Developer"},
+{"name": "Other"},
+{"name": "MutipleJobs"}
+    
+    
+],
+ 
+"links":[
+{"source":0,"target":3,"value":43},
+{"source":0,"target":4,"value":35},
+{"source":0,"target":5,"value":23},
+    
+{"source":1,"target":3,"value":24},
+{"source":1,"target":4,"value":21},
+{"source":1,"target":5,"value":10},
+
+{"source":2,"target":3,"value":77},
+{"source":2,"target":4,"value":30},
+{"source":2,"target":5,"value":51},
+
+{"source":3,"target":6,"value":58},
+{"source":3,"target":7,"value":35},
+{"source":3,"target":8,"value":51},
+    
+{"source":4,"target":6,"value":39},
+{"source":4,"target":7,"value":29},
+{"source":4,"target":8,"value":18},
+
+{"source":5,"target":6,"value":24},
+{"source":5,"target":7,"value":12},
+{"source":5,"target":8,"value":48},
+
+{"source":6,"target":9,"value":58},
+{"source":6,"target":10,"value":63},
+    
+{"source":7,"target":9,"value":20},
+{"source":7,"target":10,"value":56},
+
+{"source":8,"target":9,"value":54},
+{"source":8,"target":10,"value":63},
+
+{"source":9,"target":11,"value":3},
+{"source":9,"target":12,"value":3},
+{"source":9,"target":13,"value":1},
+{"source":9,"target":14,"value":0},
+{"source":9,"target":15,"value":4},
+{"source":9,"target":16,"value":4},
+{"source":9,"target":17,"value":3},
+{"source":9,"target":18,"value":12},
+{"source":9,"target":19,"value":10},
+{"source":9,"target":20,"value":1},
+{"source":9,"target":21,"value":35},
+{"source":9,"target":22,"value":15},
+{"source":9,"target":23,"value":45},
+    
+    
+{"source":10,"target":12,"value":5},
+{"source":10,"target":13,"value":0},
+{"source":10,"target":14,"value":1},
+{"source":10,"target":15,"value":3},
+{"source":10,"target":16,"value":5},
+{"source":10,"target":17,"value":5},
+{"source":10,"target":18,"value":19},
+{"source":10,"target":19,"value":11},
+{"source":10,"target":20,"value":2},
+{"source":10,"target":21,"value":40},
+{"source":10,"target":22,"value":14},
+{"source":10,"target":23,"value":74}
+
+]}
