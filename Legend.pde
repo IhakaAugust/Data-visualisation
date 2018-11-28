@@ -1,0 +1,30 @@
+
+//this code creates the legend ond the text 
+void legend(){
+  
+    fill(255);
+  textSize(40);
+  text("Earthquakes Around", (width*0.5) - 200,40);
+  fill(255);
+  textSize(40);
+  text("The World", (width*0.5) - 100,90);
+  
+  fill(255, 0, 0);//set the rect color to red
+  rect(30, 200, 15, 15, 4);
+  fill(255);//set the text color to white
+  textSize(15);
+  text("High Magnitude [7]", 60, 210);
+    
+  fill(255, 153, 0);//set the rect color to orange
+  rect(30, 250, 15, 15, 4);
+  fill(255);//set the text color to black
+  textSize(15);
+  text("Medium Magnitude [4 - 6]", 60, 260);
+  
+  fill(51, 204, 51);//set the rect color to green
+  rect(30, 300, 15, 15,4);
+  fill(255);//set the text color to white
+  textSize(15);
+  text("Low Magnitude [0 - 3]", 60, 310);
+  
+}
